@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PedroArthurr
-- 👀 I’m interested in developing VR Games
-- 🌱 I’m currently learning Unity and Unreal
+- 👀 XR/Game developer
+- 🌱 2 years of professional experience in Unity Engine
 - 📫 How to reach me 
  LinkedIn: https://www.linkedin.com/in/pedro-santos-bitencourt/
 
