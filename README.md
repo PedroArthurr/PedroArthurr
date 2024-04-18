@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PedroArthurr
 - 👀 XR/Game developer
-- 🌱 2 years of professional experience in Unity Engine
+- 🌱 3 years of professional experience in Unity Engine
 - 📫 How to reach me 
  LinkedIn: https://www.linkedin.com/in/pedro-santos-bitencourt/
 
